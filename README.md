@@ -255,4 +255,4 @@ Leziga Beage · Luke Dvorak · Jonathan Gaucin · Claire Lewis · Mohammed Mohiu
 
 This repository is intended to be referenced from:
 
-**[Leziga_Portfolio](https://github.com/LezBe/Leziga_Portfolio)**
+**[Leziga_Portfolio](https://github.com/LezigaBeage/Leziga_Portfolio)**
